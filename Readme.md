@@ -16,7 +16,7 @@ Feel free to explore the valuable information in this catalogue and join in stan
 
 ## Operation mode
 
-The operation mode is the first step in the experimental planning, it describes the mode in which the experiment was performed (e.g. batch, fed-batch, continuous)
+The operation mode is the first step in the experimental planning, it describes the mode in which the experiment was performed (e.g. batch, fed-batch, continuous).
 
 [Operation mode](ModelExamples/Operation_Mode/Readme.md)
 
